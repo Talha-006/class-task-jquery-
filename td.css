@@ -1,0 +1,30 @@
+#myinput {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 200px;
+}
+
+/* Styles for the error state */
+.error {
+    border: 1px solid red;
+}
+
+/* Styles for the list items */
+#todos li {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+/* Styles for the 'ADDTODO' button */
+#addbutton {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Hover effect for the 'ADDTODO' button */
+#addbutton:hover {
+    background-color: #45a049;
+}
